@@ -1,0 +1,15 @@
+0 acne
+1 bacterial folliculitis
+2 celluitis
+3 cold sores
+4 hives
+5 rosacea
+6 eczema
+7 psoriasis
+8 ketrosis pilaris
+9 melanoma skin cancer
+10 lupus
+11 erysipelas
+12 hot tub folllicutilis
+13 furuncles
+14 erythrasma
